@@ -1,4 +1,6 @@
 # prova-docker
+[![Docker Stars](https://img.shields.io/docker/stars/xasos/prova-docker.svg)](https://hub.docker.com/r/xasos/prova-docker/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/xasos/prova-docker.svg)](https://hub.docker.com/r/xasos/prova-docker/)
 
 Docker image for running the [Prova](https://github.com/BitGo/prova) daemon.
 
